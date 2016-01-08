@@ -9,6 +9,7 @@ public class T {
 		System.out.println("分之一1阿斯顿发斯蒂芬");
 		System.out.println("分之二阿斯蒂芬");
 		System.out.println("分之三1阿斯蒂芬asdf");
+		System.out.println("分之三1阿斯蒂芬asdf");
 	}
 
 }
