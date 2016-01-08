@@ -10,6 +10,7 @@ public class T {
 		System.out.println("分之三1阿斯蒂芬");
 		System.out.println("分之四");
 		System.out.println("分之wu");
+		System.out.println("分之wussssssssss");
 	}
 
 }
