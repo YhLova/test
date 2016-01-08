@@ -4,7 +4,7 @@ public class T {
 	
 	public static void main(String[] args) {
 		System.out.println("sssssssssssss");
-		System.out.println("分之二");
+		System.out.println("分之二阿斯蒂芬");
 	}
 
 }
